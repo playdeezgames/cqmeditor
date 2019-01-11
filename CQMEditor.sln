@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQMEditor", "CQMEditor.csproj", "{68B474A8-9DE5-4397-904A-DC73DEF5ED03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B474A8-9DE5-4397-904A-DC73DEF5ED03}.Debug|x86.ActiveCfg = Debug|x86
+		{68B474A8-9DE5-4397-904A-DC73DEF5ED03}.Debug|x86.Build.0 = Debug|x86
+		{68B474A8-9DE5-4397-904A-DC73DEF5ED03}.Release|x86.ActiveCfg = Release|x86
+		{68B474A8-9DE5-4397-904A-DC73DEF5ED03}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tiles tilewidth="32" tileheight="32">
+  <tile id="0">
+    <name>North Wall</name>
+    <filename>terrain/walls/north.png</filename>
+  </tile>
+  <tile id="1">
+    <name>East Wall</name>
+    <filename>terrain/walls/east.png</filename>
+  </tile>
+  <tile id="2">
+    <name>South Wall</name>
+    <filename>terrain/walls/south.png</filename>
+  </tile>
+  <tile id="3">
+    <name>West Wall</name>
+    <filename>terrain/walls/west.png</filename>
+  </tile>
+  <tile id="4">
+    <name>Inside Northeast Corner</name>
+    <filename>terrain/corners/inside/northeast.png</filename>
+  </tile>
+  <tile id="5">
+    <name>Inside Southeast Corner</name>
+    <filename>terrain/corners/inside/southeast.png</filename>
+  </tile>
+  <tile id="6">
+    <name>Inside Southwest Corner</name>
+    <filename>terrain/corners/inside/southwest.png</filename>
+  </tile>
+  <tile id="7">
+    <name>Inside Northwest Corner</name>
+    <filename>terrain/corners/inside/northwest.png</filename>
+  </tile>
+  <tile id="8">
+    <name>Outside Northeast Corner</name>
+    <filename>terrain/corners/outside/northeast.png</filename>
+  </tile>
+  <tile id="9">
+    <name>Outside Southeast Corner</name>
+    <filename>terrain/corners/outside/southeast.png</filename>
+  </tile>
+  <tile id="10">
+    <name>Outside Southwest Corner</name>
+    <filename>terrain/corners/outside/southwest.png</filename>
+  </tile>
+  <tile id="11">
+    <name>Outside Northwest Corner</name>
+    <filename>terrain/corners/outside/northwest.png</filename>
+  </tile>
+  <tile id="12">
+    <name>North Doorway</name>
+    <filename>terrain/doorways/north.png</filename>
+  </tile>
+  <tile id="13">
+    <name>East Doorway</name>
+    <filename>terrain/doorways/east.png</filename>
+  </tile>
+  <tile id="14">
+    <name>South Doorway</name>
+    <filename>terrain/doorways/south.png</filename>
+  </tile>
+  <tile id="15">
+    <name>West Doorway</name>
+    <filename>terrain/doorways/west.png</filename>
+  </tile>
+  <tile id="16">
+    <name>Floor (Dead End)</name>
+    <filename>terrain/misc/floor-deadend.png</filename>
+  </tile>
+  <tile id="17">
+    <name>Solid</name>
+    <filename>terrain/misc/solid.png</filename>
+  </tile>
+  <tile id="18">
+    <name>Floor(p-way)</name>
+    <filename>terrain/misc/floor-pway.png</filename>
+  </tile>
+  <tile id="19">
+    <name>Floor(room)</name>
+    <filename>terrain/misc/floor-room.png</filename>
+  </tile>
+  <tile id="20">
+    <name>Floor(edge)</name>
+    <filename>terrain/misc/floor-edge.png</filename>
+  </tile>
+  <tile id="21">
+    <name>Floor(north)</name>
+    <filename>terrain/misc/floor-north.png</filename>
+  </tile>
+  <tile id="22">
+    <name>Floor(east)</name>
+    <filename>terrain/misc/floor-east.png</filename>
+  </tile>
+  <tile id="23">
+    <name>Floor(south)</name>
+    <filename>terrain/misc/floor-south.png</filename>
+  </tile>
+  <tile id="24">
+    <name>Floor(west)</name>
+    <filename>terrain/misc/floor-west.png</filename>
+  </tile>
+  <tile id="cursor">
+    <name>(cursor)</name>
+    <filename>cursor32x32.png</filename>
+  </tile>
+  <tile id="unknown">
+    <name>(unknown)</name>
+    <filename>unknown32x32.png</filename>
+  </tile>
+</tiles>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tiles tilewidth="32" tileheight="32">
+  <tile id="0">
+    <name>White</name>
+    <filename>white32x32.png</filename>
+  </tile>
+  <tile id="1">
+    <name>Black</name>
+    <filename>black32x32.png</filename>
+  </tile>
+  <tile id="cursor">
+    <name>(cursor)</name>
+    <filename>cursor32x32.png</filename>
+  </tile>
+  <tile id="unknown">
+    <name>(unknown)</name>
+    <filename>unknown32x32.png</filename>
+  </tile>
+</tiles>
